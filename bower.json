@@ -2,7 +2,7 @@
   "name": "odometer",
   "main": "odometer.js",
   "version": "0.4.8",
-  "homepage": "http://github.hubspot.com/odometer/docs/welcome",
+  "homepage": "",
   "authors": [
     "Zack Bloom <zbloom@hubspot.com>",
     "Adam Schwartz <aschwartz@hubspot.com>"

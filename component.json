@@ -1,8 +1,8 @@
 {
   "name": "odometer",
   "version": "0.4.8",
-  "repo": "hubspot/odometer",
-  "description": "Transition numbers with ease",
+  "repo": "jastuccio/odometer",
+  "description": "Transition numbers with ease. A fork of hubspot/odometer",
   "keywords": [
     "odometer",
     "car",
@@ -16,7 +16,5 @@
     "client-side"
   ],
   "styles": ["themes/odometer-theme-default.css"],
-  "scripts": [
-    "odometer.js"
-  ]
+  "scripts": ["odometer.js"]
 }
